@@ -1,0 +1,35 @@
+{
+    "ARIMA": {
+        "order": [
+            0,
+            1,
+            0
+        ],
+        "aic": 16368.108723767175,
+        "bic": 16373.938751849708,
+        "metrics": {
+            "Model": "ARIMA",
+            "MAE": 69.4989569233191,
+            "RMSE": 82.93461282588196,
+            "MAPE": 22.557915255182202,
+            "MSE": 6878.150004578944
+        }
+    },
+    "LSTM": {
+        "window_size": 60,
+        "architecture": {
+            "lstm_layers": 3,
+            "lstm_units": 50,
+            "dropout": 0.2,
+            "dense_layers": 2
+        },
+        "training_epochs": 78,
+        "metrics": {
+            "Model": "LSTM",
+            "MAE": 14.966423149683969,
+            "RMSE": 18.73237542201566,
+            "MAPE": 4.175061598422877,
+            "MSE": 350.90188895133645
+        }
+    }
+}
