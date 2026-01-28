@@ -1,0 +1,27 @@
+{
+    "Min_Volatility": {
+        "TSLA": 1.4650935799122207e-17,
+        "BND": 0.9428651884310922,
+        "SPY": 0.05713481156890769,
+        "Expected_Return": 0.027428041210787065,
+        "Volatility": 0.05256544565581284,
+        "Sharpe_Ratio": 0.14131034405042947
+    },
+    "Max_Sharpe": {
+        "TSLA": 9.321145570137702e-14,
+        "BND": 0.0,
+        "SPY": 1.0,
+        "Expected_Return": 0.1428501236434434,
+        "Volatility": 0.1776760714967836,
+        "Sharpe_Ratio": 0.6914275096726646
+    },
+    "Recommended": {
+        "Portfolio_Type": "Maximum Sharpe Ratio",
+        "TSLA": 9.321145570137702e-14,
+        "BND": 0.0,
+        "SPY": 1.0,
+        "Expected_Return": 0.1428501236434434,
+        "Volatility": 0.1776760714967836,
+        "Sharpe_Ratio": 0.6914275096726646
+    }
+}
