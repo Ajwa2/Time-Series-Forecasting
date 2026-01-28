@@ -1,0 +1,37 @@
+{
+    "backtest_period": {
+        "start": "2025-01-02",
+        "end": "2026-01-14",
+        "trading_days": 259
+    },
+    "strategy_weights": {
+        "TSLA": 9.321145570137702e-14,
+        "BND": 0.0,
+        "SPY": 1.0
+    },
+    "benchmark_weights": {
+        "TSLA": 0.0,
+        "BND": 0.4,
+        "SPY": 0.6
+    },
+    "strategy_performance": {
+        "total_return_pct": 19.469582615930904,
+        "annualized_return_pct": 18.976356192006882,
+        "volatility_pct": 19.217873262051672,
+        "sharpe_ratio": 0.883362896638986,
+        "max_drawdown_pct": -18.755232635813158
+    },
+    "benchmark_performance": {
+        "total_return_pct": 15.071275761546744,
+        "annualized_return_pct": 14.696216625655524,
+        "volatility_pct": 11.818178489366215,
+        "sharpe_ratio": 1.074295555535851,
+        "max_drawdown_pct": -11.288789719145012
+    },
+    "outperformance": {
+        "return_outperformed": true,
+        "sharpe_outperformed": false,
+        "return_difference_pct": 4.280139566351359,
+        "sharpe_difference": -0.19093265889686506
+    }
+}
