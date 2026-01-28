@@ -1,0 +1,11 @@
+{
+    "current_price": 439.2000122070313,
+    "forecast_date": "2026-01-27",
+    "forecast_horizon_months": 12,
+    "model_used": "LSTM",
+    "final_forecast_price": 274.0954284667969,
+    "expected_return_pct": -37.592117293113134,
+    "avg_ci_width_pct": 28.133331298828125,
+    "ci_expansion_pct": 11.172929763793945,
+    "forecast_volatility_pct": 4.702356284058865
+}
